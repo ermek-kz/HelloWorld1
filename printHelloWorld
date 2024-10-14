@@ -1,2 +1,2 @@
 echo 'hello world'
-echo 'Teacher Mike'
+print('Hello, world! ') 
